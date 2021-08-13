@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">FacebookUi</string>
+    <string name="peter"><b>Peter Smith</b></string>
+    <string name="country">Alberta, Canada</string>
+    <string name="call">Call</string>
+    <string name="message">Message</string>
+    <string name="more">More</string>
+    <string name="time_line">Timeline</string>
+    <string name="about">About</string>
+    <string name="friends">Friends</string>
+    <string name="photos">Photos</string>
+    <string name="comment_place_holder">Write Something to Peter</string>
+    <string name="photo_layout"><b>Photos</b></string>
+    <string name="see_more">See more</string>
+    <string name="friends_layout"><b>Friends</b></string>
+    <string name="carter_white"><b>carter White</b></string>
+    <string name="mutual_friends_12">12 mutual friends</string>
+    <string name="ashley_ren"><b>Ashley Ren</b></string>
+    <string name="alex_lopez"><b>Alex Lopez</b></string>
+    <string name="maggie_morphy"><b>Maggie Morphy</b></string>
+    <string name="friends_number">530</string>
+    <string name="mutual_friends_3">3 mutual friends</string>
+</resources>
